@@ -1,0 +1,37 @@
+
+    
+body{
+    background-color: blueviolet;
+}
+
+table{
+    background-image: url(https://laverdadnoticias.com/export/sites/laverdad/img/2020/09/27/flores_de_glicinia_anime.jpg_792370018.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+table thead{
+ background-color:black;
+ color: white;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+
+table tr td{
+    font-size: 20px;
+}
+table caption{
+    font-size: 50px;
+}
